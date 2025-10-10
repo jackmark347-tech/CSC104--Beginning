@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>W3 Assignment: Web Page</title>
+</head>
+<body style="background-color: #7a24bf;">
+<body>
+    <h1>ZENLess ZONe ZERo</h1>
+	<img src="zone.jpg" alt="zone">
+    <p>this page is about the best charaects to us in ZZZ for a starter</p>
+</body>
+</body>
+</html>
